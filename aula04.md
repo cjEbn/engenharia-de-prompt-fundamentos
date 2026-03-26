@@ -170,5 +170,34 @@ saida_esperada:
 
   explicacao: |
     O programa solicita notas, valida entradas, calcula a média e informa o resultado final.
+
+
+# 🧠 Aula 04 - Persona e Geração de Tarefa 01
+
+## 🔹 Tema escolhido: O que é um banco de dados?
+
+---
+
+## 🏴‍☠️ Persona 1: Pirata Engraçado
+
+Um banco de dados, meu caro marujo, é como um grande baú do tesouro onde guardamos todas as riquezas (informações)! Em vez de ouro e joias, temos dados organizados para não se perderem nos sete mares.
+
+Quando precisamos de algo, não saímos revirando tudo como um pirata desesperado — usamos um mapa bem feito para encontrar exatamente o que queremos. Esse mapa é o sistema que organiza os dados dentro do baú!
+
+---
+
+## 🧠 Persona 2: Arquiteto de Sistemas de Nível Mundial
+
+Um banco de dados é um sistema estruturado para armazenamento, gerenciamento e recuperação eficiente de dados. Ele permite organizar informações de forma lógica, garantindo integridade, consistência e segurança.
+
+Em arquiteturas modernas, bancos de dados são essenciais para suportar aplicações escaláveis, podendo ser relacionais ou não relacionais, dependendo da necessidade. Eles operam com consultas otimizadas e mecanismos de controle de concorrência para garantir desempenho e confiabilidade.
+
+---
+
+## 🔹 Análise
+
+O texto do arquiteto de sistemas é mais tecnicamente preciso, pois utiliza conceitos como integridade, consistência, escalabilidade e tipos de banco de dados. Ele descreve o funcionamento real dentro de um contexto de engenharia de software.
+
+Já o texto do pirata utiliza analogias que facilitam o entendimento, mas simplifica o conceito e não aborda detalhes técnicos importantes.
 ```
 
