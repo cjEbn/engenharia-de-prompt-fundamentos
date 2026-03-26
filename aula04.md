@@ -201,3 +201,73 @@ Em arquiteturas modernas, bancos de dados são essenciais para suportar aplicaç
 O texto do arquiteto de sistemas é mais tecnicamente preciso, pois utiliza conceitos como integridade, consistência, escalabilidade e tipos de banco de dados. Ele descreve o funcionamento real dentro de um contexto de engenharia de software.
 
 Já o texto do pirata utiliza analogias que facilitam o entendimento, mas simplifica o conceito e não aborda detalhes técnicos importantes.
+
+
+---
+
+# Aula 04 - Tarefa 02 - Framework RTG
+
+## 🔹 Prompt Estruturado (RTG)
+
+**Papel (Role):**
+Você é um instrutor de Python experiente.
+
+**Tarefa (Task):**
+Crie uma função que calcule a média de uma lista de números, incluindo tratamento de erros rigoroso para listas vazias.
+
+**Formato (Format):**
+Forneça o código Python amplamente comentado, seguido de exatos três casos de teste.
+
+---
+
+## 🔹 Resultado Gerado
+
+```python
+def calcular_media(lista):
+    """
+    Função que calcula a média de uma lista de números.
+    Realiza validações para garantir que a lista não esteja vazia
+    e que todos os elementos sejam numéricos.
+    """
+    
+    # Verifica se a lista está vazia
+    if not lista:
+        raise ValueError("A lista não pode estar vazia.")
+    
+    # Verifica se todos os elementos são números
+    for item in lista:
+        if not isinstance(item, (int, float)):
+            raise TypeError("Todos os elementos da lista devem ser números.")
+    
+    # Calcula a média
+    soma = sum(lista)
+    media = soma / len(lista)
+    
+    return media
+
+
+# Casos de teste
+
+# Teste 1: Lista válida
+print(calcular_media([10, 8, 6]))
+
+# Teste 2: Lista com erro (vazia)
+try:
+    print(calcular_media([]))
+except ValueError as e:
+    print(e)
+
+# Teste 3: Lista com valor inválido
+try:
+    print(calcular_media([10, "a", 5]))
+except TypeError as e:
+    print(e)
+```
+
+---
+
+## 🔹 Observação
+
+O uso do framework RTG (Role, Task, Format) permite estruturar o prompt de forma clara, reduzindo ambiguidades e garantindo que a resposta atenda exatamente aos requisitos definidos.
+
+---
