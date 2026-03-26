@@ -277,3 +277,7 @@ Tarefa 3 - Reflexão Crítica
 A definição explícita de um papel (persona) melhora significativamente a qualidade e a estrutura técnica das respostas geradas pela inteligência artificial. Ao atribuir um papel específico, como “instrutor de Python experiente”, o modelo passa a adotar um vocabulário mais adequado, maior rigor técnico e uma organização mais clara das informações.
 
 Isso reduz ambiguidades e direciona a resposta para um padrão mais profissional, alinhado ao contexto solicitado. Sem a definição de persona, as respostas tendem a ser mais genéricas e menos consistentes em termos técnicos. Portanto, o uso de papéis é uma estratégia essencial na engenharia de prompt para obter resultados mais precisos e confiáveis.
+
+etapa 2 atividade aula04.md.pdf
+
+[Baixar arquivo PDF](etapa 2 atividade aula04.md.pdf)
