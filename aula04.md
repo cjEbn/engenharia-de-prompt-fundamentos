@@ -82,7 +82,7 @@ Formato:
 
 ---
 
-# 5. Resultado refinado
+## 5. Resultado refinado
 
 ```python
 def obter_nota(mensagem):
@@ -110,7 +110,7 @@ else:
     print("Aluno reprovado.")
 ```
 
-### Explicação:
+**Explicação:**
 
 * Função `obter_nota` garante entrada válida
 * `try/except` trata erros de digitação
@@ -119,7 +119,7 @@ else:
 
 ---
 
-# 6. Versão final (Prompt Mestre em YAML)
+## 6. Versão final (Prompt Mestre em YAML)
 
 ```yaml
 papel: Professor de programação experiente
@@ -170,32 +170,33 @@ saida_esperada:
 
   explicacao: |
     O programa solicita notas, valida entradas, calcula a média e informa o resultado final.
-
+```
 
 ---
 
-# Aula 04 - Persona e Geração de Texto tarefa 01
+# Aula 04 - Persona e Geração de Texto - Tarefa 01
 
 ## 🔹 Tema escolhido: O que é um banco de dados?
 
 ---
 
-
-Tarefa 1 - Persona e Geração de Texto
-Tema: O que é um banco de dados?
-🏴‍☠️ Persona 1: Pirata Engraçado
+## 🏴‍☠️ Persona 1: Pirata Engraçado
 
 Um banco de dados, meu caro marujo, é como um grande baú do tesouro onde guardamos todas as riquezas (informações)! Em vez de ouro e joias, temos dados organizados para não se perderem nos sete mares.
 
 Quando precisamos de algo, não saímos revirando tudo como um pirata desesperado — usamos um mapa bem feito para encontrar exatamente o que queremos. Esse mapa é o sistema que organiza os dados dentro do baú!
 
-🧠 Persona 2: Arquiteto de Sistemas de Nível Mundial
+---
+
+## 🧠 Persona 2: Arquiteto de Sistemas de Nível Mundial
 
 Um banco de dados é um sistema estruturado para armazenamento, gerenciamento e recuperação eficiente de dados. Ele permite organizar informações de forma lógica, garantindo integridade, consistência e segurança.
 
 Em arquiteturas modernas, bancos de dados são essenciais para suportar aplicações escaláveis, podendo ser relacionais ou não relacionais, dependendo da necessidade. Eles operam com consultas otimizadas e mecanismos de controle de concorrência para garantir desempenho e confiabilidade.
 
-🔹 Análise
+---
+
+## 🔹 Análise
 
 O texto do arquiteto de sistemas é mais tecnicamente preciso, pois utiliza conceitos como integridade, consistência, escalabilidade e tipos de banco de dados. Ele descreve o funcionamento real dentro de um contexto de engenharia de software.
 
