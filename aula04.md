@@ -278,6 +278,8 @@ A definição explícita de um papel (persona) melhora significativamente a qual
 
 Isso reduz ambiguidades e direciona a resposta para um padrão mais profissional, alinhado ao contexto solicitado. Sem a definição de persona, as respostas tendem a ser mais genéricas e menos consistentes em termos técnicos. Portanto, o uso de papéis é uma estratégia essencial na engenharia de prompt para obter resultados mais precisos e confiáveis.
 
-etapa 2 atividade aula04.md.pdf
+## 📄 Versão em PDF
 
-[Baixar arquivo PDF](etapa 2 atividade aula04.md.pdf)
+Clique abaixo para visualizar ou baixar o documento completo:
+
+👉 [Abrir PDF](aula04.pdf)
