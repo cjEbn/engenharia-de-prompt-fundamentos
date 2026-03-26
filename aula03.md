@@ -22,4 +22,4 @@ As respostas ficaram mais variadas e menos previsíveis, incluindo possibilidade
 
 Modo técnico:
 As respostas foram mais diretas e baseadas em probabilidade e contexto lógico, sem variações criativas.
-[Etapa 3](atividade-imagem-3.png)
+![Etapa 3](atividade-imagem-3.png)
